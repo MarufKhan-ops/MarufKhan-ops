@@ -120,8 +120,6 @@ I'm a final-year **Computer Science & Engineering** student at **Bangladesh Univ
 
 <img src="https://ghchart.rshah.org/0078D4/YOUR_GITHUB_USERNAME" alt="Contribution Chart" width="90%" />
 
-</div>
-
 ---
 
 <div align="center">
